@@ -1,0 +1,45 @@
+﻿
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #404040;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 75px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: grey;
+}
+.tb_css
+{
+    color:Black;
+    width:200px;
+    height:14px;
+    
+    }
+
+.textbox{
+    
+    padding: 0;
+    height: 30px;
+    position: relative;
+    left: 0;
+    outline: none;
+    border: 1px solid #cdcdcd;
+    border-color: rgba(0,0,0,.15);
+    background-color: white;
+    font-size: 16px;
+}
+}
